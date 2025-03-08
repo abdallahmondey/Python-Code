@@ -1,5 +1,4 @@
 print (" Please pick a number from 1-4")
-
 operation = int(input("Please enter your number:\t"))
 
 while operation > 4 or operation < 0:
